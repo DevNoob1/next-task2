@@ -57,9 +57,9 @@ const Lower: React.FC = () => {
             <div className="h-[50vh] mb-[100px] flex flex-col md:flex-row w-full justify-around items-center">
                 <div className="text-center md:text-left">
                     <h1 className="text-5xl mb-5">FAQ</h1>
-                    <p className="font-medium text-xl mb-10">Let’s help you with some of your <br /> frequently asked questions.</p>
+                    <p className="font-medium text-xl mb-10">Lets help you with some of your <br /> frequently asked questions.</p>
                     <p className="text-gray-400">
-                        Couldn't find your answer? <br /><span className="text-purple-400">Ask a Question</span>
+                        Couldnt find your answer? <br /><span className="text-purple-400">Ask a Question</span>
                     </p>
                 </div>
                 <div className="flex flex-col w-full md:w-1/3">
