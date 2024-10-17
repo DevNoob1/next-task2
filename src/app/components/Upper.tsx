@@ -51,7 +51,7 @@ const Upper: React.FC = () => {
             <div className='flex flex-col md:flex-row w-full md:w-1/2 p-2 justify-between space-y-4 md:space-y-0'>
                 {/* Text Section */}
                 <p className='w-full md:w-3/4 text-xs md:text-sm'>
-                    We've meticulously designed each template to meet the specific guidelines and format requirements of all social media platforms. By preserving safe zones and adhering to platform standards, we ensure that your posts will always be visually striking, no matter where you share them.
+                    We&apos;ve meticulously designed each template to meet the specific guidelines and format requirements of all social media platforms. By preserving safe zones and adhering to platform standards, we ensure that your posts will always be visually striking, no matter where you share them.
                 </p>
 
                 {/* List Section */}
